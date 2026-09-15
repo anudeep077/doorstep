@@ -1,0 +1,707 @@
+{
+  "restaurants": [
+    {
+      "slug": "biryani-junction",
+      "name": "Biryani Junction",
+      "cuisine_tags": [
+        "Biryani",
+        "Hyderabadi",
+        "Mughlai"
+      ],
+      "rating": 4.5,
+      "rating_count": 2310,
+      "delivery_min_minutes": 30,
+      "delivery_max_minutes": 40,
+      "is_veg_only": false,
+      "area": "Banjara Hills",
+      "menu_items": [
+        {
+          "name": "Chicken Dum Biryani",
+          "price_minor": 32000,
+          "is_veg": false,
+          "is_featured": true,
+          "sort_order": 0,
+          "image_url": "https://loremflickr.com/640/480/biryani?lock=7"
+        },
+        {
+          "name": "Veg Dum Biryani",
+          "price_minor": 24000,
+          "is_veg": true,
+          "is_featured": true,
+          "sort_order": 1,
+          "image_url": "https://loremflickr.com/640/480/biryani,rice?lock=14"
+        },
+        {
+          "name": "Mutton Biryani",
+          "price_minor": 39000,
+          "is_veg": false,
+          "is_featured": false,
+          "sort_order": 2,
+          "image_url": "https://loremflickr.com/640/480/mutton?lock=21"
+        },
+        {
+          "name": "Paneer 65",
+          "price_minor": 22000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 3,
+          "image_url": "https://loremflickr.com/640/480/paneer?lock=28"
+        }
+      ],
+      "lat": 17.4106,
+      "lng": 78.4382
+    },
+    {
+      "slug": "sattvik-bhojanalaya",
+      "name": "Sattvik Bhojanalaya",
+      "cuisine_tags": [
+        "North Indian",
+        "Thali",
+        "Rajasthani"
+      ],
+      "rating": 4.7,
+      "rating_count": 1840,
+      "delivery_min_minutes": 25,
+      "delivery_max_minutes": 35,
+      "is_veg_only": true,
+      "area": "Jubilee Hills",
+      "menu_items": [
+        {
+          "name": "Rajasthani Thali",
+          "price_minor": 28000,
+          "is_veg": true,
+          "is_featured": true,
+          "sort_order": 0,
+          "image_url": "https://loremflickr.com/640/480/thali?lock=35"
+        },
+        {
+          "name": "Dal Baati Churma",
+          "price_minor": 22000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 1,
+          "image_url": "https://loremflickr.com/640/480/lentils?lock=42"
+        },
+        {
+          "name": "Gatte ki Sabzi",
+          "price_minor": 18000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 2,
+          "image_url": "https://loremflickr.com/640/480/curry?lock=49"
+        }
+      ],
+      "lat": 17.4315,
+      "lng": 78.408
+    },
+    {
+      "slug": "dosa-corner",
+      "name": "Dosa Corner",
+      "cuisine_tags": [
+        "South Indian",
+        "Breakfast",
+        "Tiffins"
+      ],
+      "rating": 4.3,
+      "rating_count": 5120,
+      "delivery_min_minutes": 20,
+      "delivery_max_minutes": 30,
+      "is_veg_only": true,
+      "area": "Madhapur",
+      "menu_items": [
+        {
+          "name": "Ghee Podi Masala Dosa",
+          "price_minor": 14000,
+          "is_veg": true,
+          "is_featured": true,
+          "sort_order": 0,
+          "image_url": "https://loremflickr.com/640/480/dosa?lock=56"
+        },
+        {
+          "name": "Idli Sambar",
+          "price_minor": 9000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 1,
+          "image_url": "https://loremflickr.com/640/480/idli?lock=63"
+        },
+        {
+          "name": "Filter Coffee",
+          "price_minor": 6000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 2,
+          "image_url": "https://loremflickr.com/640/480/coffee?lock=70"
+        }
+      ],
+      "lat": 17.4513,
+      "lng": 78.3894
+    },
+    {
+      "slug": "wok-and-roll",
+      "name": "Wok & Roll",
+      "cuisine_tags": [
+        "Chinese",
+        "Asian",
+        "Indo-Chinese"
+      ],
+      "rating": 4.1,
+      "rating_count": 980,
+      "delivery_min_minutes": 35,
+      "delivery_max_minutes": 45,
+      "is_veg_only": false,
+      "area": "Gachibowli",
+      "menu_items": [
+        {
+          "name": "Chicken Hakka Noodles",
+          "price_minor": 21000,
+          "is_veg": false,
+          "is_featured": true,
+          "sort_order": 0,
+          "image_url": "https://loremflickr.com/640/480/noodles?lock=77"
+        },
+        {
+          "name": "Veg Manchurian",
+          "price_minor": 18000,
+          "is_veg": true,
+          "is_featured": true,
+          "sort_order": 1,
+          "image_url": "https://loremflickr.com/640/480/manchurian?lock=84"
+        },
+        {
+          "name": "Veg Fried Rice",
+          "price_minor": 17000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 2,
+          "image_url": "https://loremflickr.com/640/480/friedrice?lock=91"
+        },
+        {
+          "name": "Chilli Chicken",
+          "price_minor": 24000,
+          "is_veg": false,
+          "is_featured": false,
+          "sort_order": 3,
+          "image_url": "https://loremflickr.com/640/480/chicken?lock=98"
+        }
+      ],
+      "lat": 17.4361,
+      "lng": 78.3517
+    },
+    {
+      "slug": "nonnas-pizzeria",
+      "name": "Nonna's Pizzeria",
+      "cuisine_tags": [
+        "Pizza",
+        "Italian"
+      ],
+      "rating": 4.4,
+      "rating_count": 1560,
+      "delivery_min_minutes": 30,
+      "delivery_max_minutes": 40,
+      "is_veg_only": false,
+      "area": "Kondapur",
+      "menu_items": [
+        {
+          "name": "Pepperoni Pizza",
+          "price_minor": 45000,
+          "is_veg": false,
+          "is_featured": true,
+          "sort_order": 0,
+          "image_url": "https://loremflickr.com/640/480/pepperoni?lock=105"
+        },
+        {
+          "name": "Margherita Pizza",
+          "price_minor": 35000,
+          "is_veg": true,
+          "is_featured": true,
+          "sort_order": 1,
+          "image_url": "https://loremflickr.com/640/480/margherita?lock=112"
+        },
+        {
+          "name": "Garlic Bread",
+          "price_minor": 15000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 2,
+          "image_url": "https://loremflickr.com/640/480/garlicbread?lock=119"
+        }
+      ],
+      "lat": 17.4622,
+      "lng": 78.3568
+    },
+    {
+      "slug": "burger-barracks",
+      "name": "Burger Barracks",
+      "cuisine_tags": [
+        "Burgers",
+        "Fast Food",
+        "American"
+      ],
+      "rating": 4,
+      "rating_count": 3200,
+      "delivery_min_minutes": 20,
+      "delivery_max_minutes": 30,
+      "is_veg_only": false,
+      "area": "Hitech City",
+      "menu_items": [
+        {
+          "name": "Double Smash Burger",
+          "price_minor": 29000,
+          "is_veg": false,
+          "is_featured": true,
+          "sort_order": 0,
+          "image_url": "https://loremflickr.com/640/480/burger?lock=126"
+        },
+        {
+          "name": "Crispy Paneer Burger",
+          "price_minor": 22000,
+          "is_veg": true,
+          "is_featured": true,
+          "sort_order": 1,
+          "image_url": "https://loremflickr.com/640/480/veggieburger?lock=133"
+        },
+        {
+          "name": "Loaded Fries",
+          "price_minor": 16000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 2,
+          "image_url": "https://loremflickr.com/640/480/fries?lock=140"
+        }
+      ],
+      "lat": 17.4475,
+      "lng": 78.3744
+    },
+    {
+      "slug": "the-green-bowl",
+      "name": "The Green Bowl",
+      "cuisine_tags": [
+        "Salads",
+        "Healthy",
+        "Bowls"
+      ],
+      "rating": 4.6,
+      "rating_count": 720,
+      "delivery_min_minutes": 25,
+      "delivery_max_minutes": 35,
+      "is_veg_only": true,
+      "area": "Jubilee Hills",
+      "menu_items": [
+        {
+          "name": "Buddha Bowl",
+          "price_minor": 32000,
+          "is_veg": true,
+          "is_featured": true,
+          "sort_order": 0,
+          "image_url": "https://loremflickr.com/640/480/buddhabowl?lock=147"
+        },
+        {
+          "name": "Quinoa Salad",
+          "price_minor": 28000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 1,
+          "image_url": "https://loremflickr.com/640/480/salad?lock=154"
+        },
+        {
+          "name": "Cold-Pressed Juice",
+          "price_minor": 15000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 2,
+          "image_url": "https://loremflickr.com/640/480/juice?lock=161"
+        }
+      ],
+      "lat": 17.4295,
+      "lng": 78.4094
+    },
+    {
+      "slug": "kebab-kingdom",
+      "name": "Kebab Kingdom",
+      "cuisine_tags": [
+        "Kebabs",
+        "Mughlai",
+        "Grill"
+      ],
+      "rating": 4.2,
+      "rating_count": 1120,
+      "delivery_min_minutes": 35,
+      "delivery_max_minutes": 50,
+      "is_veg_only": false,
+      "area": "Tolichowki",
+      "menu_items": [
+        {
+          "name": "Seekh Kebab Platter",
+          "price_minor": 38000,
+          "is_veg": false,
+          "is_featured": true,
+          "sort_order": 0,
+          "image_url": "https://loremflickr.com/640/480/kebab?lock=168"
+        },
+        {
+          "name": "Hara Bhara Kebab",
+          "price_minor": 22000,
+          "is_veg": true,
+          "is_featured": true,
+          "sort_order": 1,
+          "image_url": "https://loremflickr.com/640/480/vegkebab?lock=175"
+        },
+        {
+          "name": "Chicken Tikka",
+          "price_minor": 30000,
+          "is_veg": false,
+          "is_featured": false,
+          "sort_order": 2,
+          "image_url": "https://loremflickr.com/640/480/tikka?lock=182"
+        }
+      ],
+      "lat": 17.4019,
+      "lng": 78.4138
+    },
+    {
+      "slug": "chai-and-chaat",
+      "name": "Chai & Chaat",
+      "cuisine_tags": [
+        "Street Food",
+        "Chaat",
+        "Snacks"
+      ],
+      "rating": 4.4,
+      "rating_count": 4410,
+      "delivery_min_minutes": 15,
+      "delivery_max_minutes": 25,
+      "is_veg_only": true,
+      "area": "Ameerpet",
+      "menu_items": [
+        {
+          "name": "Pani Puri",
+          "price_minor": 8000,
+          "is_veg": true,
+          "is_featured": true,
+          "sort_order": 0,
+          "image_url": "https://loremflickr.com/640/480/panipuri?lock=189"
+        },
+        {
+          "name": "Dahi Bhalla",
+          "price_minor": 11000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 1,
+          "image_url": "https://loremflickr.com/640/480/chaat?lock=196"
+        },
+        {
+          "name": "Masala Chai",
+          "price_minor": 4000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 2,
+          "image_url": "https://loremflickr.com/640/480/chai?lock=203"
+        }
+      ],
+      "lat": 17.4425,
+      "lng": 78.4448
+    },
+    {
+      "slug": "sushi-sora",
+      "name": "Sushi Sora",
+      "cuisine_tags": [
+        "Japanese",
+        "Sushi",
+        "Asian"
+      ],
+      "rating": 4.6,
+      "rating_count": 410,
+      "delivery_min_minutes": 40,
+      "delivery_max_minutes": 55,
+      "is_veg_only": false,
+      "area": "Banjara Hills",
+      "menu_items": [
+        {
+          "name": "Salmon Nigiri",
+          "price_minor": 62000,
+          "is_veg": false,
+          "is_featured": true,
+          "sort_order": 0,
+          "image_url": "https://loremflickr.com/640/480/sushi?lock=210"
+        },
+        {
+          "name": "Avocado Maki",
+          "price_minor": 42000,
+          "is_veg": true,
+          "is_featured": true,
+          "sort_order": 1,
+          "image_url": "https://loremflickr.com/640/480/maki?lock=217"
+        },
+        {
+          "name": "Miso Soup",
+          "price_minor": 18000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 2,
+          "image_url": "https://loremflickr.com/640/480/miso?lock=224"
+        }
+      ],
+      "lat": 17.4136,
+      "lng": 78.4361
+    },
+    {
+      "slug": "punjabi-dhaba",
+      "name": "Punjabi Dhaba",
+      "cuisine_tags": [
+        "North Indian",
+        "Punjabi",
+        "Curry"
+      ],
+      "rating": 4.3,
+      "rating_count": 2780,
+      "delivery_min_minutes": 30,
+      "delivery_max_minutes": 40,
+      "is_veg_only": false,
+      "area": "Kukatpally",
+      "menu_items": [
+        {
+          "name": "Butter Chicken",
+          "price_minor": 34000,
+          "is_veg": false,
+          "is_featured": true,
+          "sort_order": 0,
+          "image_url": "https://loremflickr.com/640/480/butterchicken?lock=231"
+        },
+        {
+          "name": "Dal Makhani",
+          "price_minor": 22000,
+          "is_veg": true,
+          "is_featured": true,
+          "sort_order": 1,
+          "image_url": "https://loremflickr.com/640/480/lentils?lock=238"
+        },
+        {
+          "name": "Butter Naan",
+          "price_minor": 5000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 2,
+          "image_url": "https://loremflickr.com/640/480/naan?lock=245"
+        }
+      ],
+      "lat": 17.4869,
+      "lng": 78.4124
+    },
+    {
+      "slug": "sweet-tooth",
+      "name": "Sweet Tooth",
+      "cuisine_tags": [
+        "Desserts",
+        "Bakery",
+        "Ice Cream"
+      ],
+      "rating": 4.8,
+      "rating_count": 1290,
+      "delivery_min_minutes": 20,
+      "delivery_max_minutes": 30,
+      "is_veg_only": true,
+      "area": "Madhapur",
+      "menu_items": [
+        {
+          "name": "Chocolate Lava Cake",
+          "price_minor": 19000,
+          "is_veg": true,
+          "is_featured": true,
+          "sort_order": 0,
+          "image_url": "https://loremflickr.com/640/480/lavacake?lock=252"
+        },
+        {
+          "name": "Blueberry Cheesecake",
+          "price_minor": 24000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 1,
+          "image_url": "https://loremflickr.com/640/480/cheesecake?lock=259"
+        },
+        {
+          "name": "Gulab Jamun",
+          "price_minor": 9000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 2,
+          "image_url": "https://loremflickr.com/640/480/gulabjamun?lock=266"
+        }
+      ],
+      "lat": 17.4433,
+      "lng": 78.395
+    },
+    {
+      "slug": "taco-loco",
+      "name": "Taco Loco",
+      "cuisine_tags": [
+        "Mexican",
+        "Tacos",
+        "Burritos"
+      ],
+      "rating": 4.1,
+      "rating_count": 640,
+      "delivery_min_minutes": 30,
+      "delivery_max_minutes": 45,
+      "is_veg_only": false,
+      "area": "Gachibowli",
+      "menu_items": [
+        {
+          "name": "Carnitas Tacos",
+          "price_minor": 33000,
+          "is_veg": false,
+          "is_featured": true,
+          "sort_order": 0,
+          "image_url": "https://loremflickr.com/640/480/tacos?lock=273"
+        },
+        {
+          "name": "Bean & Cheese Burrito",
+          "price_minor": 27000,
+          "is_veg": true,
+          "is_featured": true,
+          "sort_order": 1,
+          "image_url": "https://loremflickr.com/640/480/burrito?lock=280"
+        },
+        {
+          "name": "Nachos Grande",
+          "price_minor": 21000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 2,
+          "image_url": "https://loremflickr.com/640/480/nachos?lock=287"
+        }
+      ],
+      "lat": 17.4391,
+      "lng": 78.3496
+    },
+    {
+      "slug": "coastal-catch",
+      "name": "Coastal Catch",
+      "cuisine_tags": [
+        "Seafood",
+        "Mangalorean",
+        "Coastal"
+      ],
+      "rating": 4.5,
+      "rating_count": 860,
+      "delivery_min_minutes": 40,
+      "delivery_max_minutes": 55,
+      "is_veg_only": false,
+      "area": "Somajiguda",
+      "menu_items": [
+        {
+          "name": "Mangalorean Fish Curry",
+          "price_minor": 41000,
+          "is_veg": false,
+          "is_featured": true,
+          "sort_order": 0,
+          "image_url": "https://loremflickr.com/640/480/fishcurry?lock=294"
+        },
+        {
+          "name": "Prawn Ghee Roast",
+          "price_minor": 48000,
+          "is_veg": false,
+          "is_featured": false,
+          "sort_order": 1,
+          "image_url": "https://loremflickr.com/640/480/prawns?lock=301"
+        },
+        {
+          "name": "Crab Masala",
+          "price_minor": 56000,
+          "is_veg": false,
+          "is_featured": false,
+          "sort_order": 2,
+          "image_url": "https://loremflickr.com/640/480/crab?lock=308"
+        }
+      ],
+      "lat": 17.4269,
+      "lng": 78.4574
+    },
+    {
+      "slug": "momo-station",
+      "name": "Momo Station",
+      "cuisine_tags": [
+        "Tibetan",
+        "Nepali",
+        "Momos"
+      ],
+      "rating": 4.2,
+      "rating_count": 1930,
+      "delivery_min_minutes": 20,
+      "delivery_max_minutes": 30,
+      "is_veg_only": false,
+      "area": "Ameerpet",
+      "menu_items": [
+        {
+          "name": "Chicken Steam Momos",
+          "price_minor": 16000,
+          "is_veg": false,
+          "is_featured": true,
+          "sort_order": 0,
+          "image_url": "https://loremflickr.com/640/480/momos?lock=315"
+        },
+        {
+          "name": "Veg Fried Momos",
+          "price_minor": 14000,
+          "is_veg": true,
+          "is_featured": true,
+          "sort_order": 1,
+          "image_url": "https://loremflickr.com/640/480/dumplings?lock=322"
+        },
+        {
+          "name": "Thukpa",
+          "price_minor": 18000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 2,
+          "image_url": "https://loremflickr.com/640/480/thukpa?lock=329"
+        }
+      ],
+      "lat": 17.4335,
+      "lng": 78.4511
+    },
+    {
+      "slug": "dilli-paratha-house",
+      "name": "Dilli Paratha House",
+      "cuisine_tags": [
+        "North Indian",
+        "Breakfast",
+        "Parathas"
+      ],
+      "rating": 4.4,
+      "rating_count": 2210,
+      "delivery_min_minutes": 20,
+      "delivery_max_minutes": 30,
+      "is_veg_only": true,
+      "area": "Kukatpally",
+      "menu_items": [
+        {
+          "name": "Aloo Paratha with Makhan",
+          "price_minor": 12000,
+          "is_veg": true,
+          "is_featured": true,
+          "sort_order": 0,
+          "image_url": "https://loremflickr.com/640/480/paratha?lock=336"
+        },
+        {
+          "name": "Paneer Paratha",
+          "price_minor": 15000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 1,
+          "image_url": "https://loremflickr.com/640/480/paneer?lock=343"
+        },
+        {
+          "name": "Lassi",
+          "price_minor": 7000,
+          "is_veg": true,
+          "is_featured": false,
+          "sort_order": 2,
+          "image_url": "https://loremflickr.com/640/480/lassi?lock=350"
+        }
+      ],
+      "lat": 17.4849,
+      "lng": 78.4138
+    }
+  ]
+}
